@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Soreesh - product owner"
-    email: "Soureesh@eazybank.com"
+    email: "{cipher}a98f5f80a72d4b0c720a7f383d773e882af5953dd484c4d55796da1545058aef7498727e4b7201e289d743459b8804ee"
   onCallSupport:
     - (555) 555-1279
     - (555) 523-1329
