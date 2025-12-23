@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank loans related prod APIs "
+  contactDetails:
+    name: "Tejaswini- Product owner"
+    email: "tejaswini@eazybank.com"
+  onCallSupport:
+    - (452) 456-1111
+    - (546) 764-3333

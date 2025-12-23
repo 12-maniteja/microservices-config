@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Manikanta - product owner"
+    email: "Manikanta@eazybank.com"
+  onCallSupport:
+    - (412) 419-3333
+    - (915) 382-1234

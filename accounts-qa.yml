@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related qa APIs "
+  contactDetails:
+    name: "Setu - QA Lead"
+    email: "Setu@eazybank.com"
+  onCallSupport:
+    - (555) 555-1278
+    - (555) 523-1389
