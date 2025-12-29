@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related qa APIs "
+  message: "Welcome to EazyBank cards related quality assurance APIs "
   contactDetails:
     name: "Mani - QA"
     email: "Mani@eazybank.com"
